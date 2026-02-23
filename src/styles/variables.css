@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #a52a2a;
+    /* Pomegranate */
+    --secondary-color: #ffcf40;
+    /* Saffron */
+    --background-color: #fffaf0;
+    --text-color: #333;
+    --header-text: #222;
+    --card-bg: #ffffff;
+    --shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
